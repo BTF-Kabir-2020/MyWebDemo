@@ -1,1 +1,1 @@
-[Demo](https://BTF-Kabir-2020.github.io/MyWebDemo){:target="_blank"}
+<button onclick="window.open('https://BTF-Kabir-2020.github.io/MyWebDemo', '_blank')">صفحه جدید</button>
